@@ -25,7 +25,7 @@ const storyText = document.createElement("div");
 storyText.classList.add("story-text");
 
 const title = document.createElement("h2");
-title.textContent = "Authentic Dishes craftesd with love";
+title.textContent = "Authentic Dishes crafted with love";
 
 const paragraph = document.createElement("p");
 paragraph.textContent = "Since opening our doors, Taste Haven has focused on quality ingredients and warm hospitality";
