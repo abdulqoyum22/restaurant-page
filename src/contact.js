@@ -3,7 +3,7 @@ function contact() {
 const content = document.querySelector("#content");
 
 const contactContainer = document.createElement("div");
-contactContainer.classList.add("contact");
+contactContainer.classList.add("contact-second");
 
 const contactText = document.createElement("div");
 contactText.classList.add("contact-hero");
